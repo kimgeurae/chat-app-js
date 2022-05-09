@@ -7,11 +7,7 @@ The goal of this application was to give a good basic chat-app based in room's w
 For the future, my next goals after studying some html, css, and some js frameworks probably react or svelte is to turn this project into a small but funny game, something like a mad clicker that would save and register user highscore as long as the user is connected to the room.
 Probably the flow of the application would be very similar to it's current state. The following diagramn represents the future application flow.
 
-enter room page <-------> room page ---------
-                            /\               |
-                            |                |
-                            |               \/
-                            --------   Minigame page
+enter room page <-------> room page <-------> Minigame page
 
 Also in the enter room page probably some room's may be highlighted so user can find themselves in some public default named room's.
 
